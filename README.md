@@ -15,7 +15,7 @@
  
 </p>
 
-***For More Help***
+### For More Help
 
 <p>
 <a href="https://discord.gg/Wn6z6yD7n3" target="_blank">
