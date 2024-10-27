@@ -8,9 +8,9 @@
 		"logo": "https://g.top4top.io/p_3201wh8np1.png"
 	},
   "emojis":{
-    "feed_1":"<a:stars_orange:1298364253203333141>",
-    "feed_star":"<a:black_star:1298364251513159690> ",
-    "arrow":"<a:Black_Arrow_R_ExOR:1298364248975610008>",
-    "arrow2":"<:arrow2:1298340516089561270>"
+    "feed_1":"Feed emoji",
+    "feed_star":"Star emoji",
+    "arrow":"arrow emoji",
+    "arrow2":"arrow2 emoji"
   }
 }
