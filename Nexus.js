@@ -1,0 +1,1 @@
+console.log("© Copyright [Nexus-Team] 2024");
